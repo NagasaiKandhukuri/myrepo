@@ -1,2 +1,3 @@
 # myrepo
-This is my first repository. <br> Author - Nagasai
+This is my first repository. <br> Author - Nagasai Kandhukuri
+
